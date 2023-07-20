@@ -37,8 +37,8 @@ Esses arquivos serão usados para treinar o modelo de classificação.
 O modelo de regressão logística é treinado usando o conjunto de dados de treinamento preparado anteriormente. Durante o treinamento, o modelo aprenderá a mapear as características das interações químicas para suas respectivas classes de covalente e não covalente.
 Para isso utilizaremos o arquivo
 
-#Classificacao_interacoes_quimicas.ipynb
-que conterá o modelo de classificação de regressão logistica
+# Classificacao_interacoes_quimicas.ipynb
+que conterá o modelo de classificação de regressão logística para categorizar as interações químicas dos átomos da molécula.
 
 # Avaliação do Modelo: 
 
