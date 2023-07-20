@@ -10,7 +10,7 @@ A produção de fármacos e drogas é uma área fundamental na indústria farmac
 
 # Objetivos:
 
-O objetivo principal deste projeto é criar um modelo de classificação de regressão logística que possa prever se as interação químicas dos átomos dos proteína são covalentes ou não covalentes. Ao atingir esse objetivo, o modelo pode ser usado como uma ferramenta auxiliar no processo de desenvolvimento de fármacos e drogas futuramente. Ele pode ajudar os pesquisadores a identificar rapidamente o tipo de interação envolvida e direcionar seus esforços para as moléculas mais promissoras.
+O objetivo principal deste projeto é criar um modelo de classificação de regressão logística que possa prever se as interação químicas dos átomos dos proteína são covalentes ou não covalentes. Ao atingir esse objetivo, o modelo pode ser usado como uma ferramenta auxiliar no processo de desenvolvimento de fármacos e drogas futuramente. Desse modo, poderá ajudar os pesquisadores a identificar rapidamente o tipo de interação envolvida e direcionar seus esforços para as moléculas mais promissoras.
 
 # Desenvolvimento:
 
