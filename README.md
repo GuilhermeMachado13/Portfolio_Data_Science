@@ -21,11 +21,11 @@ O desenvolvimento do modelo de classificação de regressão logística para est
 Os dados coletados precisam ser preparados para o treinamento do modelo. Isso envolve a limpeza dos dados, tratamento de valores ausentes, normalização ou padronização de recursos e a divisão adequada do conjunto de dados em conjuntos de treinamento e teste. Para isso, é necessário utilizar o notebook Script_CPprop_txt_Mwfn.ipynb, que tem como função estruturar os dados do arquivo 'Cpprop.txt' em um formato de tabela DataFrame, que conterá as informações físicas e químicas dos átomos da molécula de estudo. Esse notebook será de grande valia, pois com a organização dos dados poderemos fazer uma análise de dados e treinar modelos de machine learning, que é o objetivo deste projeto.
 
 Posteriormente, serão gerados 5 arquivos .csv oriundos do código Script_CPprop_txt_Mwfn.ipynb:
-# SVP- B3LYP
-# TZVP - B3LYP
-# TZVPP - B3LYP
-# QZVP - B3LYP
-# QZVPP - B3LYP
+# CPprop_svp_b3lyp.csv
+# CPprop_tzvp_b3lyp.csv
+# CPprop_tzvpp_b3lyp.csv
+# CPprop_qzvp_b3lyp.csv
+# CPprop_qzvpp_b3lyp.csv
 
 Esses arquivos serão usados para treinar o modelo de classificação.
 
