@@ -2,7 +2,7 @@
 Portfólio para Ciência de Dados e áreas correlatas.
 Neste projeto, abordaremos um projeto dividido em 2 etapas: A primeira etapa será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e treinamento de modelos de Machine Learning. E a segunda etapa será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame da primeira etapa.
 
-Este é um projeto de ciência de dados que se baseia na classificação de interações químicas covalentes ou não covalentes de moléculas ou macromoléculas. O objetivo é desenvolver um modelo de classificação de regressão logística capaz de distinguir entre esses dois tipos de interações. Essa classificação é relevante no campo de Dinâmica Molecular e bioquímica, pois poderá auxiliar na produção de fármacos e drogas.
+Este é um projeto de ciência de dados com foco na classificação de interações químicas covalentes ou não covalentes aplicados a biomoléculas. O objetivo principal é desenvolver um modelo de classificação de regressão logística capaz de distinguir entre esses dois tipos de interações químicas. Essa classificação é essencial no campo da Dinâmica Molecular e na bioquímica, pois desempenha um papel crucial na produção de fármacos e drogas ou no estudo de doenças e vírus.
 
 # Contexto:
 
