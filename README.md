@@ -24,7 +24,9 @@ Os dados coletados precisam ser preparados para o treinamento do modelo. Isso en
 
 O modelo de regressão logística é treinado usando o conjunto de dados de treinamento preparado anteriormente. Durante o treinamento, o modelo aprenderá a mapear as características das interações químicas para suas respectivas classes de covalente e não covalente.
 
-# Avaliação do Modelo: Após o treinamento, é importante avaliar o desempenho do modelo usando o conjunto de dados de teste. Métricas de desempenho, como acurácia, precisão, recall e F1-score, são calculadas para medir o quão bem o modelo está realizando a classificação.
+# Avaliação do Modelo: 
+
+Após o treinamento, é importante avaliar o desempenho do modelo usando o conjunto de dados de teste. Métricas de desempenho, como acurácia, precisão, recall e F1-score, são calculadas para medir o quão bem o modelo está realizando a classificação.
 
 # Resultados:
 
