@@ -42,7 +42,7 @@ que conterá o modelo de classificação de regressão logística para categoriz
 
 # Avaliação do Modelo: 
 
-Após o treinamento, é importante avaliar o desempenho do modelo usando o conjunto de dados de teste. Métricas de desempenho, como acurácia, precisão, recall e F1-score, são calculadas para medir o quão bem o modelo está realizando a classificação.
+Após o treinamento, é importante avaliar o desempenho do modelo usando o conjunto de dados de teste. Métricas de desempenho, como matriz de confusão, acurácia, precisão, recall e F1-score, são calculadas para medir o quão bem o modelo está realizando a classificação.
 
 # Resultados:
 
