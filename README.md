@@ -50,7 +50,7 @@ Após o treinamento, é importante avaliar o desempenho do modelo usando o conju
 
 # Resultados:
 
-Os resultados esperados deste projeto são um modelo de classificação de regressão logística que seja capaz de prever com precisão se as interação química dos átomos de uma proteína são covalentes ou não covalentes. O modelo pode ser integrado a fluxos de trabalho existentes no campo da bioquímica, auxiliando na seleção de candidatos promissores para o desenvolvimento de fármacos e drogas. Os resultados se encontram no notebook Classificacao_interacoes_quimicas.ipynb
+Os resultados esperados deste projeto são um modelo de classificação de regressão logística que seja capaz de prever com precisão se as interação química dos átomos de uma molécula são covalentes ou não covalentes. O modelo pode ser integrado a fluxos de trabalho existentes no campo da bioquímica, auxiliando na seleção de candidatos promissores para o desenvolvimento de fármacos e drogas. Os resultados se encontram no notebook Classificacao_interacoes_quimicas.ipynb
 
 # Considerações Finais:
 
