@@ -41,6 +41,7 @@ O modelo de regressão logística é treinado usando o conjunto de dados de trei
 Para isso, utilizamos o arquivo
 
 -> Classificacao_interacoes_quimicas.ipynb
+
 que conterá o modelo de classificação de regressão logística para categorizar as interações químicas dos átomos da molécula.
 
 # Avaliação do Modelo: 
