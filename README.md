@@ -1,8 +1,6 @@
 # Portfolio_Data_Science
 Portfólio para Ciência de Dados e áreas correlatas.
-Neste projeto, abordaremos um projeto dividido em 2 etapas: A primeira etapa será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e treinamento de modelos de Machine Learning. E a segunda etapa será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame da primeira etapa.
-
-Este é um projeto de ciência de dados com foco na classificação de interações químicas covalentes ou não covalentes aplicados a biomoléculas. O objetivo principal é desenvolver um modelo de classificação de regressão logística capaz de distinguir entre esses dois tipos de interações químicas. Essa classificação é essencial no campo da Dinâmica Molecular e na bioquímica, pois desempenha um papel crucial na produção de fármacos e drogas ou no estudo de doenças e vírus.
+Neste projeto, abordaremos um projeto de Ciências de Dados. Primeiramente, será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e em de modelos de Machine Learning. Posteriormente, será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame.
 
 # Contexto:
 
@@ -18,7 +16,7 @@ O desenvolvimento do modelo de classificação de regressão logística para est
 
 # Pré-processamento de Dados:
 
-Os dados coletados precisam ser preparados para o treinamento do modelo. Isso envolve a limpeza dos dados, tratamento de valores ausentes, normalização ou padronização de recursos e a divisão adequada do conjunto de dados em conjuntos de treinamento e teste. Para isso, será necessário utilizar os arquivos:
+Os dados coletados precisam ser preparados para o treinamento do modelo. Isso envolve a limpeza dos dados, tratamento de valores ausentes, normalização ou padronização de recursos e a divisão adequada do conjunto de dados em conjuntos de treinamento e teste. Para isso, será necessário utilizar o arquivo:
 
 # Script_CPprop_txt_Mwfn.ipynb, 
 que tem como função estruturar os dados do arquivo 'Cpprop.txt' em um formato de tabela DataFrame, que conterá as informações físicas e químicas dos átomos da molécula de estudo. Esse notebook será de grande valia, pois com a organização dos dados poderemos fazer uma análise de dados e treinar modelos de machine learning, que é o objetivo deste projeto.
@@ -35,7 +33,7 @@ Esses arquivos serão usados para treinar o modelo de classificação.
 # Treinamento do Modelo:
 
 O modelo de regressão logística é treinado usando o conjunto de dados de treinamento preparado anteriormente. Durante o treinamento, o modelo aprenderá a mapear as características das interações químicas para suas respectivas classes de covalente e não covalente.
-Para isso utilizaremos o arquivo
+Para isso, utilizamos o arquivo
 
 # Classificacao_interacoes_quimicas.ipynb
 que conterá o modelo de classificação de regressão logística para categorizar as interações químicas dos átomos da molécula.
@@ -46,7 +44,7 @@ Após o treinamento, é importante avaliar o desempenho do modelo usando o conju
 
 # Resultados:
 
-Os resultados esperados deste projeto são um modelo de classificação de regressão logística que seja capaz de prever com precisão se as interação química dos átomos de uma proteína são covalentes ou não covalentes. O modelo pode ser integrado a fluxos de trabalho existentes no campo da bioquímica, auxiliando na seleção de candidatos promissores para o desenvolvimento de fármacos e drogas.
+Os resultados esperados deste projeto são um modelo de classificação de regressão logística que seja capaz de prever com precisão se as interação química dos átomos de uma proteína são covalentes ou não covalentes. O modelo pode ser integrado a fluxos de trabalho existentes no campo da bioquímica, auxiliando na seleção de candidatos promissores para o desenvolvimento de fármacos e drogas. Os resultados se encontram no notebook Classificacao_interacoes_quimicas.ipynb
 
 # Considerações Finais:
 
