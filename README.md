@@ -23,9 +23,13 @@ que tem como função estruturar os dados do arquivo 'Cpprop.txt' em um formato 
 
 Posteriormente, serão gerados 5 arquivos .csv oriundos do código Script_CPprop_txt_Mwfn.ipynb:
 -> CPprop_svp_b3lyp.csv
+
 -> CPprop_tzvp_b3lyp.csv
+
 -> CPprop_tzvpp_b3lyp.csv
+
 -> CPprop_qzvp_b3lyp.csv
+
 -> CPprop_qzvpp_b3lyp.csv
 
 Esses arquivos serão usados para treinar o modelo de classificação.
