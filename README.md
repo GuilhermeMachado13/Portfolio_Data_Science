@@ -1,6 +1,6 @@
 # Portfolio_Data_Science
 Portfólio para Ciência de Dados e áreas correlatas.
-Neste projeto, abordaremos um projeto de Ciências de Dados. Primeiramente, será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e em de modelos de Machine Learning. Posteriormente, será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame.
+Neste projeto, abordaremos um projeto de Ciências de Dados. Primeiramente, será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e em modelos de Machine Learning. Posteriormente, será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame.
 
 # Contexto:
 
