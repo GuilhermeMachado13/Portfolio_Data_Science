@@ -1,5 +1,6 @@
 # Modelo de Classificação de Interações Químicas
-Portfólio para Ciência de Dados e áreas correlatas.
+
+# Resumo:
 Neste projeto, abordaremos um projeto de Ciências de Dados. Primeiramente, será apresentado um notebook feito em python para estruturar dados, oriundos de um software de química quântica, em formato de DataFrame para ser utilizado na análise de dados e em modelos de Machine Learning. Posteriormente, será feito um modelo de classificação utilizando modelos de Machine Learning com os dados do DataFrame.
 
 # Contexto:
